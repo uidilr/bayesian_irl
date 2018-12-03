@@ -18,7 +18,7 @@ python src/birl.py
 ```
 
 # Results
+Sampled rewards for each states.   
+An optimal policy for mean of sampled rewards were exactly matched with the expert's policy.
 
 ![env1](./results/samples_env0.png)
-
-![env2](./results/samples_env1.png)
